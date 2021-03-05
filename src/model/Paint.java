@@ -19,7 +19,7 @@ public class Paint {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 
 	// Properties
-	@Column(name = "ID")
+	@Column(name = "id")
 	private int id;
 	@Column(name = "BrandName")
 	private String brand;

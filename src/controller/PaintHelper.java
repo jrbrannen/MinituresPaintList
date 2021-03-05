@@ -13,7 +13,7 @@ import model.Paint;
  */
 public class PaintHelper {
 
-	static EntityManagerFactory emfactory = Persistence.createEntityManagerFactory("MinituresPaintList");
+	static EntityManagerFactory emfactory = Persistence.createEntityManagerFactory("WebPaintList");
 
 	public void insertPaint(Paint toAdd) {
 

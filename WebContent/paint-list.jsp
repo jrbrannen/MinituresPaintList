@@ -7,7 +7,9 @@
 	
 		<meta charset="ISO-8859-1">
 		
-		<title>Insert title here</title>
+		<title>Paint List</title>
+		
+		<link rel="stylesheet" type="text/css" href="mainStyle.css">
 		
 	</head>
 	
